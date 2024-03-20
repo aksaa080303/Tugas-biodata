@@ -1,0 +1,8 @@
+print("Biodata diri")
+Nama = input("Masukan Nama kamu : ")
+Kelas = input("kelas : ")
+Tempat_Tanggal_Lahir = input("jenis kelamin : ")
+Alamat = input("masukan alamat anda :")
+Tempat_Tanggal_Lahir = input("Masukan Tempat tanggal Lahir : ")
+Hobi = input("hobi anda : ")
+print(f"Perkenalkan Saya {Nama} saya dari kelas {Kelas} saya dari {Alamat} tempat dan tanggal lahir saya {Tempat_Tanggal_Lahir} hobi saya {Hobi}")
